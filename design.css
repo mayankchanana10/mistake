@@ -1,0 +1,15 @@
+body{
+background:lightgreen;
+}
+
+ul{
+color:darkblue;
+font-size:32px;
+font-weight:bold;
+border:8px double darkred;
+}
+
+p{
+color:orange;
+font-size:36px;
+}

@@ -1,0 +1,27 @@
+h2{
+background:hotpink;
+color:darkgreen;
+font-size:45px;
+}
+
+body{
+background:grey;
+}
+
+p{
+font-size:25px;
+color:darkred;
+}
+
+img{
+height:600px;
+width:700px;
+border:9px solid darkblue;
+}
+
+hr{
+border-width:0px;
+height:9px;
+width:60%;
+background:orange;
+}

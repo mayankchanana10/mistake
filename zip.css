@@ -1,0 +1,29 @@
+body{
+background:orange;
+}
+
+.img1{
+height:600px;
+width:700px;
+margin-left:200px;
+border:8px solid darkred;
+}
+
+.img2{
+height:500px;
+width:600px;
+margin-left:350px;
+border:8px dashed darkblue;
+}
+
+.img3{
+height:400px;
+width:500px;
+margin-left:500px;
+border:8px double darkgreen;
+}
+h1{
+color:purple;
+background:lightblue;
+font-size:42px;
+}

@@ -1,0 +1,19 @@
+body{
+background:lightblue;
+}
+
+img{
+height:600px;
+width:700px;
+margin-left:500px;
+}
+
+h1{
+color:red;
+background:lightgreen;
+}
+h2{
+color:darkgrey;
+border:8px dashed orange;
+font-size:25px;
+}
