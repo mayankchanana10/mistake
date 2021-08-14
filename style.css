@@ -1,0 +1,16 @@
+body{
+    background:lightblue;
+}
+
+h1{
+    text-decoration:underline;
+}
+
+p{
+    font-weight:bold;
+    color:purple;
+}
+img{
+    height:600px;
+    width:700px;
+}
